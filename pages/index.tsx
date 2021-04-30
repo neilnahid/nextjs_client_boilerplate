@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Test from '../components/Test';
 
 export const Home = (): JSX.Element => (
-  <div className="container">
+  <div tw="hello worldkj">
     <Head>
       <title>Create Next App</title>
       <link rel="icon" href="/favicon.ico" />
